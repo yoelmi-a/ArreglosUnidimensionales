@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="InversionDeArreglo/InversionDeArreglo.csproj" Id="6fd2d3e3-acd0-4ce2-b380-9b14f5532c1b" />
+  <Project Path="Temperatura/Temperaturas.csproj" Id="2b5e64e6-62b1-4c89-ac40-8d06126a6613" />
+  <Project Path="VentasDiarias/VentasDiarias.csproj" />
+</Solution>
